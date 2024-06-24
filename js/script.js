@@ -34,6 +34,9 @@ btn.style.marginTop = '60px'
 
 btn.style.marginTop = '70px'
 
+let a  = 'hello world';
+console.log(a);
+
 
 
 
