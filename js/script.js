@@ -38,5 +38,9 @@ let a  = 'hello world';
 console.log(a);
 
 
+let b = 12;
+
+
+
 
 
