@@ -40,6 +40,9 @@ console.log(a);
 
 let b = 12;
 
+let n = 'hello world'
+
+
 
 
 
